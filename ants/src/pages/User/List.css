@@ -1,0 +1,6 @@
+.span{
+    display: flex;
+}
+.span span{
+    flex:1;
+}
